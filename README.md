@@ -9,3 +9,5 @@ LGC:  https://ngdc.cncb.ac.cn/biocode/tools/BT000004<br>
 ## Fastq Quatity control
 fastp: https://github.com/OpenGene/fastp<br>
 
+## Download software
+sratoolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit<br>
