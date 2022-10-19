@@ -13,4 +13,7 @@ fastp: https://github.com/OpenGene/fastp<br>
 sratoolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit<br>
 
 ## Database
-SPEED2: https://speed2.sys-bio.net  [SPEED2 is a signaling pathway enrichment analysis tool]
+SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment analysis tool)<br>
+
+## Sequence annotation
+Interproscan: https://github.com/ebi-pf-team/interproscan
