@@ -20,3 +20,4 @@ Interproscan: https://github.com/ebi-pf-team/interproscan<br>
 
 ## ChIP-seq
 WiggleTools：https://github.com/Ensembl/WiggleTools<br>
+https://github.com/crazyhottommy/ChIP-seq-analysis<br>
