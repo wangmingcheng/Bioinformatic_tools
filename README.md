@@ -17,6 +17,7 @@ SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment an
 
 ## Sequence annotation
 Interproscan: https://github.com/ebi-pf-team/interproscan<br>
+eggNOG： https://github.com/eggnogdb/eggnog-mapper<br>
 
 ## ChIP-seq
 WiggleTools：https://github.com/Ensembl/WiggleTools<br>
