@@ -14,6 +14,7 @@ sratoolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit<b
 
 ## Database
 SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment analysis tool)<br>
+Interpro: https://www.ebi.ac.uk/interpro/<br>
 
 ## Sequence annotation
 Interproscan: https://github.com/ebi-pf-team/interproscan<br>
