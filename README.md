@@ -24,3 +24,6 @@ eggNOG： https://github.com/eggnogdb/eggnog-mapper<br>
 WiggleTools：https://github.com/Ensembl/WiggleTools<br>
 ChIP-seq-analysis：https://github.com/crazyhottommy/ChIP-seq-analysis<br>
 Intro-to-ChIPseq：https://hbctraining.github.io/Intro-to-ChIPseq  https://github.com/hbctraining/Intro-to-ChIPseq-flipped<br>
+
+## Sequence align
+hmmer: http://hmmer.org/<br>
