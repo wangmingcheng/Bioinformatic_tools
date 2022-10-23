@@ -27,3 +27,6 @@ Intro-to-ChIPseq：https://hbctraining.github.io/Intro-to-ChIPseq  https://githu
 
 ## Sequence align
 hmmer: http://hmmer.org/<br>
+
+## multiple sequence align
+muscle： https://github.com/rcedgar/muscle
