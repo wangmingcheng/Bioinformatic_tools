@@ -20,6 +20,9 @@ Interpro: https://www.ebi.ac.uk/interpro/<br>
 Interproscan: https://github.com/ebi-pf-team/interproscan<br>
 eggNOG： https://github.com/eggnogdb/eggnog-mapper<br>
 
+## gene prediction
+https://github.com/harvardinformatics/GenomeAnnotation
+
 ## ChIP-seq
 WiggleTools：https://github.com/Ensembl/WiggleTools<br>
 ChIP-seq-analysis：https://github.com/crazyhottommy/ChIP-seq-analysis<br>
