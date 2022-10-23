@@ -29,4 +29,8 @@ Intro-to-ChIPseq：https://hbctraining.github.io/Intro-to-ChIPseq  https://githu
 hmmer: http://hmmer.org/<br>
 
 ## multiple sequence align
-muscle： https://github.com/rcedgar/muscle
+muscle： https://github.com/rcedgar/muscle<br>
+MAFFT: https://mafft.cbrc.jp/alignment/software<br>
+Kalign: https://github.com/timolassmann/kalign<br>
+Clustal Omega: http://www.clustal.org/omega<br>
+colections: https://www.ebi.ac.uk/Tools/msa/<br>
