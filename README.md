@@ -16,7 +16,7 @@ sratoolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit<b
 SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment analysis tool)<br>
 Interpro: https://www.ebi.ac.uk/interpro/<br>
 
-## Sequence annotation
+## Function annotation
 Interproscan: https://github.com/ebi-pf-team/interproscan<br>
 eggNOG： https://github.com/eggnogdb/eggnog-mapper<br>
 
