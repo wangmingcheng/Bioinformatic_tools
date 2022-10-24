@@ -21,7 +21,8 @@ Interproscan: https://github.com/ebi-pf-team/interproscan<br>
 eggNOG： https://github.com/eggnogdb/eggnog-mapper<br>
 
 ## gene prediction
-https://github.com/harvardinformatics/GenomeAnnotation
+https://github.com/harvardinformatics/GenomeAnnotation<br>
+Augustus: https://github.com/Gaius-Augustus/Augustus<br>
 
 ## ChIP-seq
 WiggleTools：https://github.com/Ensembl/WiggleTools<br>
