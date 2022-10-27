@@ -40,7 +40,7 @@ Clustal Omega: http://www.clustal.org/omega<br>
 colections: https://www.ebi.ac.uk/Tools/msa/<br>
 
 ## TCGA数据库相关
-UCSC Xena：http://xena.ucsc.edu/<>br
+UCSC Xena：http://xena.ucsc.edu/<br>
 TCGA数据下载,泛癌全基因数据分析<br>
 GEPIA2: http://gepia2.cancer-pku.cn/#index<br>
 TCGA数据在线挖掘，主要功能包括：
@@ -55,3 +55,6 @@ TCGA数据在线挖掘，主要功能包括：
 这是一个整合了TCGA的各种RNA数据和患者临床数据，提供生存分析的网站，灰常简单好用<br>
 ### MEXPRESS: mexpress.be/about<br>
 整合了TCGA中的DNA甲基化，表达量及临床数据，主要用来探索甲基化，基因表达和临床表型之间的关联<br>
+
+待补充具体实操方法
+
