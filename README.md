@@ -38,3 +38,7 @@ MAFFT: https://mafft.cbrc.jp/alignment/software<br>
 Kalign: https://github.com/timolassmann/kalign<br>
 Clustal Omega: http://www.clustal.org/omega<br>
 colections: https://www.ebi.ac.uk/Tools/msa/<br>
+
+## TCGA数据库相关
+UCSC Xena：http://xena.ucsc.edu/ TCGA数据下载<br>
+GEPIA: http://gepia2.cancer-pku.cn/#index TCGA数据在线挖掘，差异基因分析、生存分析等<br>
