@@ -53,7 +53,7 @@ TCGA数据在线挖掘，主要功能包括：
 主要展示基因的somatic 突变谱，拷贝数变化，mRNA&miRNA表达量变化，DNA甲基化以及蛋白质表达的情况，并结合患者的临床资料，展示了KM生存曲线<br>
 ### OncoLnc: www.oncolnc.org<br>
 这是一个整合了TCGA的各种RNA数据和患者临床数据，提供生存分析的网站，灰常简单好用<br>
-### MEXPRESS: mexpress.be/about<br>
+### MEXPRESS: https://www.mexpress.be/<br>
 整合了TCGA中的DNA甲基化，表达量及临床数据，主要用来探索甲基化，基因表达和临床表型之间的关联<br>
 
 待补充具体实操方法
