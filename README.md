@@ -40,12 +40,18 @@ Clustal Omega: http://www.clustal.org/omega<br>
 colections: https://www.ebi.ac.uk/Tools/msa/<br>
 
 ## TCGA数据库相关
-UCSC Xena：http://xena.ucsc.edu/ TCGA数据下载<br>
-GEPIA: http://gepia2.cancer-pku.cn/#index TCGA数据在线挖掘，差异基因分析、生存分析等<br>
+UCSC Xena：http://xena.ucsc.edu/<>br
+TCGA数据下载,泛癌全基因数据分析<br>
+GEPIA2: http://gepia2.cancer-pku.cn/#index<br>
+TCGA数据在线挖掘，主要功能包括：
+1. 单基因分析，差异分析，与肿瘤分期的相关性，生存分析和相似基因。
+2. 肿瘤类型分析，包括筛选与肿瘤关系、影响生存最密切的基因。
+3. 多基因分析，包括基因表达的相关性和降维分析等。
+4.免疫细胞类型分析，用于探究肿瘤的免疫浸润分析<br>
 ### c-Bioportal: www.cbioportal.org<br>
 整合和简化了包括TCGA，ICGC以及GEO等多个癌症基因组数据库的内容，提供友好可视化的界面，可供下载
 主要展示基因的somatic 突变谱，拷贝数变化，mRNA&miRNA表达量变化，DNA甲基化以及蛋白质表达的情况，并结合患者的临床资料，展示了KM生存曲线<br>
 ### OncoLnc: www.oncolnc.org<br>
 这是一个整合了TCGA的各种RNA数据和患者临床数据，提供生存分析的网站，灰常简单好用<br>
-### MEXPRESS:mexpress.be/about<br>
+### MEXPRESS: mexpress.be/about<br>
 整合了TCGA中的DNA甲基化，表达量及临床数据，主要用来探索甲基化，基因表达和临床表型之间的关联<br>
