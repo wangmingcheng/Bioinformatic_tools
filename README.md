@@ -40,9 +40,9 @@ Clustal Omega: http://www.clustal.org/omega<br>
 colections: https://www.ebi.ac.uk/Tools/msa/<br>
 
 ## TCGA数据库相关
-UCSC Xena：http://xena.ucsc.edu/<br>
+### UCSC Xena：http://xena.ucsc.edu/<br>
 TCGA数据下载,泛癌全基因数据分析<br>
-GEPIA2: http://gepia2.cancer-pku.cn/#index<br>
+### GEPIA2: http://gepia2.cancer-pku.cn/#index<br>
 TCGA数据在线挖掘，主要功能包括：
 1. 单基因分析，差异分析，与肿瘤分期的相关性，生存分析和相似基因。
 2. 肿瘤类型分析，包括筛选与肿瘤关系、影响生存最密切的基因。
