@@ -6,6 +6,9 @@ CNCI: https://github.com/www-bioinfo-org/CNCI<br>
 CPAT: https://github.com/liguowang/cpat   训练模型https://sourceforge.net/projects/rna-cpat/files/v1.2.2/prebuilt_model/<br>
 LGC:  https://ngdc.cncb.ac.cn/biocode/tools/BT000004<br>
 
+## Pacbio full length analyse
+cDNA_Cupcake: https://github.com/Magdoll/cDNA_Cupcake
+
 ## Fastq Quatity control
 fastp: https://github.com/OpenGene/fastp<br>
 
