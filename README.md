@@ -14,6 +14,7 @@ fastp: https://github.com/OpenGene/fastp<br>
 
 ## Download software
 sratoolkit: https://github.com/ncbi/sra-tools/wiki/01.-Downloading-SRA-Toolkit<br>
+Kingfisher: https://github.com/wwood/kingfisher-download<br>
 
 ## Database
 SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment analysis tool)<br>
@@ -73,6 +74,9 @@ TCGA数据在线挖掘，主要功能包括：
 ### 免疫浸润数据库
 CIBERSORTx： https://cibersortx.stanford.edu/<br>
 EcoTyper： https://ecotyper.stanford.edu/<br>
+
+## 蛋白组分析
+https://pnnl-comp-mass-spec.github.io/proteomics-data-analysis-tutorial/
 
 待补充具体实操方法
 
