@@ -19,6 +19,7 @@ Kingfisher: https://github.com/wwood/kingfisher-download<br>
 ## Database
 SPEED2: https://speed2.sys-bio.net  (SPEED2 is a signaling pathway enrichment analysis tool)<br>
 Interpro: https://www.ebi.ac.uk/interpro/<br>
+COG: https://ftp.ncbi.nih.gov/pub/COG/COG2020/data<br>
 
 ## Function annotation
 Interproscan: https://github.com/ebi-pf-team/interproscan<br>
