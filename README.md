@@ -48,7 +48,13 @@ MitoCarta3.0：https://www.broadinstitute.org/mitocarta/mitocarta30-inventory-ma
 AnimalTFDB v4.0： http://bioinfo.life.hust.edu.cn/AnimalTFDB4/#/<br>
 
 ## TCGA数据库相关
-### UCSC Xena：http://xena.ucsc.edu/<br>
+### TCGA下载数据的方式:
+1. gdc-client: https://github.com/NCI-GDC/gdc-client
+实时的最新文件，但是步骤稍微繁琐，要自己 merge单个文件
+2. TCGA biolinks包
+整合和下游分析方便
+3. UCSC Xena：http://xena.ucsc.edu/<br>
+非常方便
 TCGA数据下载,泛癌全基因数据分析<br>
 ### GEPIA2: http://gepia2.cancer-pku.cn/#index<br>
 TCGA数据在线挖掘，主要功能包括：
