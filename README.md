@@ -44,6 +44,9 @@ colections: https://www.ebi.ac.uk/Tools/msa/<br>
 
 ## 线粒体数据库
 MitoCarta3.0：https://www.broadinstitute.org/mitocarta/mitocarta30-inventory-mammalian-mitochondrial-proteins-and-pathways<br>
+## 动物转录因子数据库
+AnimalTFDB v4.0： http://bioinfo.life.hust.edu.cn/AnimalTFDB4/#/<br>
+
 ## TCGA数据库相关
 ### UCSC Xena：http://xena.ucsc.edu/<br>
 TCGA数据下载,泛癌全基因数据分析<br>
