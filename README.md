@@ -51,7 +51,7 @@ AnimalTFDB v4.0： http://bioinfo.life.hust.edu.cn/AnimalTFDB4/#/<br>
 ### TCGA下载数据的方式:
 1. gdc-client: https://github.com/NCI-GDC/gdc-client
 实时的最新文件，但是步骤稍微繁琐，要自己 merge单个文件
-2. TCGA biolinks包
+2. TCGAbiolinks包：https://www.bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html
 整合和下游分析方便
 3. UCSC Xena：http://xena.ucsc.edu/<br>
 非常方便
