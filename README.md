@@ -72,6 +72,7 @@ TCGA数据在线挖掘，主要功能包括：
 
 ### 免疫浸润数据库
 CIBERSORTx： https://cibersortx.stanford.edu/<br>
+EcoTyper： https://ecotyper.stanford.edu/<br>
 
 待补充具体实操方法
 
