@@ -42,6 +42,8 @@ Kalign: https://github.com/timolassmann/kalign<br>
 Clustal Omega: http://www.clustal.org/omega<br>
 colections: https://www.ebi.ac.uk/Tools/msa/<br>
 
+## 线粒体数据库
+MitoCarta3.0：https://www.broadinstitute.org/mitocarta/mitocarta30-inventory-mammalian-mitochondrial-proteins-and-pathways<br>
 ## TCGA数据库相关
 ### UCSC Xena：http://xena.ucsc.edu/<br>
 TCGA数据下载,泛癌全基因数据分析<br>
