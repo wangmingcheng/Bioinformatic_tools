@@ -8,6 +8,9 @@ LGC:  https://ngdc.cncb.ac.cn/biocode/tools/BT000004<br>
 phyloCSFpp: https://github.com/cpockrandt/PhyloCSFpp<br>
 FEELnc: https://github.com/tderrien/FEELnc#installation-and-requirements<br>
 
+## meRIP-seq 流程
+https://github.com/canceromics/MeRIPseqPipe
+
 ## Pacbio full length analyse
 cDNA_Cupcake: https://github.com/Magdoll/cDNA_Cupcake
 
